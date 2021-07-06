@@ -1,0 +1,19 @@
+{
+  "name": "react-conference",
+  "version": "1.0.0",
+  "description": "A page for a React conference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredoPark-48/react-conference.git"
+  },
+  "author": "Alfredo Jeonghyun Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfredoPark-48/react-conference/issues"
+  },
+  "homepage": "https://github.com/alfredoPark-48/react-conference#readme"
+}
